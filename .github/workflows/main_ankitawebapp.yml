@@ -55,4 +55,4 @@ jobs:
           app-name: 'ankitawebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4DEC8855092B4BE98D50CDA9DBA577CA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA19A43BE78144B8AD2C260E615F2BE5 }}
